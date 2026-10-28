@@ -20,4 +20,6 @@ redirect_from:
 
 ## 联系方式
 
+邮箱：[230259053@seu.edu.cn](mailto:230259053@seu.edu.cn)
+
 [GitHub](https://github.com/dechunzhao)
