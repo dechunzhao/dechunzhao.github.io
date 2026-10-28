@@ -8,6 +8,8 @@ redirect_from:
 
 **东南大学 · Southeast University**
 
+**Email / 邮箱：230259053@seu.edu.cn**
+
 欢迎来到我的个人学术主页。
 
 ## 关于我
